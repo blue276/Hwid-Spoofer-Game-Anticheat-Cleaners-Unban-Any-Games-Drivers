@@ -1,0 +1,30 @@
+C:\Users\NotUmbra\source\repos\LunaR Spoofer\LunaR Spoofer\bin\Release\net6.0\win-x64\LunaR Spoofer.exe
+C:\Users\NotUmbra\source\repos\LunaR Spoofer\LunaR Spoofer\bin\Release\net6.0\win-x64\LunaR Spoofer.deps.json
+C:\Users\NotUmbra\source\repos\LunaR Spoofer\LunaR Spoofer\bin\Release\net6.0\win-x64\LunaR Spoofer.runtimeconfig.json
+C:\Users\NotUmbra\source\repos\LunaR Spoofer\LunaR Spoofer\bin\Release\net6.0\win-x64\LunaR Spoofer.dll
+C:\Users\NotUmbra\source\repos\LunaR Spoofer\LunaR Spoofer\bin\Release\net6.0\win-x64\LunaR Spoofer.pdb
+C:\Users\NotUmbra\source\repos\LunaR Spoofer\LunaR Spoofer\obj\Release\net6.0\win-x64\LunaR Spoofer.csproj.AssemblyReference.cache
+C:\Users\NotUmbra\source\repos\LunaR Spoofer\LunaR Spoofer\obj\Release\net6.0\win-x64\LunaR Spoofer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NotUmbra\source\repos\LunaR Spoofer\LunaR Spoofer\obj\Release\net6.0\win-x64\LunaR Spoofer.AssemblyInfoInputs.cache
+C:\Users\NotUmbra\source\repos\LunaR Spoofer\LunaR Spoofer\obj\Release\net6.0\win-x64\LunaR Spoofer.AssemblyInfo.cs
+C:\Users\NotUmbra\source\repos\LunaR Spoofer\LunaR Spoofer\obj\Release\net6.0\win-x64\LunaR Spoofer.csproj.CoreCompileInputs.cache
+C:\Users\NotUmbra\source\repos\LunaR Spoofer\LunaR Spoofer\obj\Release\net6.0\win-x64\LunaR Spoofer.dll
+C:\Users\NotUmbra\source\repos\LunaR Spoofer\LunaR Spoofer\obj\Release\net6.0\win-x64\refint\LunaR Spoofer.dll
+C:\Users\NotUmbra\source\repos\LunaR Spoofer\LunaR Spoofer\obj\Release\net6.0\win-x64\LunaR Spoofer.pdb
+C:\Users\NotUmbra\source\repos\LunaR Spoofer\LunaR Spoofer\obj\Release\net6.0\win-x64\LunaR Spoofer.genruntimeconfig.cache
+C:\Users\NotUmbra\source\repos\LunaR Spoofer\LunaR Spoofer\obj\Release\net6.0\win-x64\ref\LunaR Spoofer.dll
+C:\Users\NotUmbra\Documents\GitHub\LunaR-Spoofer\LunaR Spoofer\bin\Release\net6.0\win-x64\LunaR Spoofer.exe
+C:\Users\NotUmbra\Documents\GitHub\LunaR-Spoofer\LunaR Spoofer\bin\Release\net6.0\win-x64\LunaR Spoofer.deps.json
+C:\Users\NotUmbra\Documents\GitHub\LunaR-Spoofer\LunaR Spoofer\bin\Release\net6.0\win-x64\LunaR Spoofer.runtimeconfig.json
+C:\Users\NotUmbra\Documents\GitHub\LunaR-Spoofer\LunaR Spoofer\bin\Release\net6.0\win-x64\LunaR Spoofer.dll
+C:\Users\NotUmbra\Documents\GitHub\LunaR-Spoofer\LunaR Spoofer\bin\Release\net6.0\win-x64\LunaR Spoofer.pdb
+C:\Users\NotUmbra\Documents\GitHub\LunaR-Spoofer\LunaR Spoofer\obj\Release\net6.0\win-x64\LunaR Spoofer.csproj.AssemblyReference.cache
+C:\Users\NotUmbra\Documents\GitHub\LunaR-Spoofer\LunaR Spoofer\obj\Release\net6.0\win-x64\LunaR Spoofer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NotUmbra\Documents\GitHub\LunaR-Spoofer\LunaR Spoofer\obj\Release\net6.0\win-x64\LunaR Spoofer.AssemblyInfoInputs.cache
+C:\Users\NotUmbra\Documents\GitHub\LunaR-Spoofer\LunaR Spoofer\obj\Release\net6.0\win-x64\LunaR Spoofer.AssemblyInfo.cs
+C:\Users\NotUmbra\Documents\GitHub\LunaR-Spoofer\LunaR Spoofer\obj\Release\net6.0\win-x64\LunaR Spoofer.csproj.CoreCompileInputs.cache
+C:\Users\NotUmbra\Documents\GitHub\LunaR-Spoofer\LunaR Spoofer\obj\Release\net6.0\win-x64\LunaR Spoofer.dll
+C:\Users\NotUmbra\Documents\GitHub\LunaR-Spoofer\LunaR Spoofer\obj\Release\net6.0\win-x64\refint\LunaR Spoofer.dll
+C:\Users\NotUmbra\Documents\GitHub\LunaR-Spoofer\LunaR Spoofer\obj\Release\net6.0\win-x64\LunaR Spoofer.pdb
+C:\Users\NotUmbra\Documents\GitHub\LunaR-Spoofer\LunaR Spoofer\obj\Release\net6.0\win-x64\LunaR Spoofer.genruntimeconfig.cache
+C:\Users\NotUmbra\Documents\GitHub\LunaR-Spoofer\LunaR Spoofer\obj\Release\net6.0\win-x64\ref\LunaR Spoofer.dll

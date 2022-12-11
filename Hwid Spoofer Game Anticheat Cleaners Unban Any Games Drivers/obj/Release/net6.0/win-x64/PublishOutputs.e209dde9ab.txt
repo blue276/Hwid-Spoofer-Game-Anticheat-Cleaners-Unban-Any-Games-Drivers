@@ -1,0 +1,2 @@
+C:\Users\NotUmbra\Documents\GitHub\LunaR-Spoofer\LunaR Spoofer\bin\Release\net6.0\publish\win-x64\LunaR Spoofer.pdb
+C:\Users\NotUmbra\Documents\GitHub\LunaR-Spoofer\LunaR Spoofer\bin\Release\net6.0\publish\win-x64\LunaR Spoofer.exe
